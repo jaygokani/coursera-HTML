@@ -1,3 +1,22 @@
+.row
+{
+	margin-bottom: 15px;
+}
+.row > div
+{
+	border: 2px solid cyan;
+	background-color: gray;
+}
+
+
+
+
+
+
+
+
+
+/* This is for "index.html"
 .headerRow
 {
 	background-color: cyan;
@@ -18,3 +37,4 @@
 	border: 1px solid black;
 	border-radius: 8px;
 }
+*/
