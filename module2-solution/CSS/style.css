@@ -22,6 +22,18 @@ p
 	clear: right;
 	padding: 10px;
 }
+#sci
+{
+	background-color: blue;
+}
+#math
+{
+	background-color: green;
+}
+#eco
+{
+	background-color: gold;
+}
 .content
 {
 	border: 2px solid black;
